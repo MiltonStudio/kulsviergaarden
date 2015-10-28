@@ -1,4 +1,29 @@
-<header class="site-header">
+<header class="site-header" id="header">
+    <div class="container">
+        <div class="col-md-3">
+            <a href="#">Menu</a>
+        </div>
+        <div class="col-md-6 logo">
+            Since <span id="logo">KULSVIERGÅRDEN</span> 1897
+        </div>
+        <div class="col-md-3">
+
+        </div>
+    </div>
+
+    <div class="container" id="menu">
+        <div class="col-md-4">
+            <span class="headline">FACILITETER</span>
+            {% for my_page in site.faciliteter %}
+                {% if my_page.title %}
+                    <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">{{ my_page.title }}</a></div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="col-md-4">ARRANGEMENTER</div>
+        <div class="col-md-4">NYHEDER</div>
+    </div>
+
 
   <div class="wrapper">
 

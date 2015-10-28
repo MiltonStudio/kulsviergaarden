@@ -1,13 +1,23 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Kulsvier
+email: tas@interactify.dk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "http://yourdomain.com" # the base hostname & protocol for your site - used for feed.xml
-twitter_username: jekyllrb
-github_username:  jekyll
+    Kulsviergården danner hvert år ramme omkring Nordsjællands største loppemarked, Alsønderup Fester, 1-2 årlige teaterforestillinger, som er arrangeret af vores lokale teaterforening, Kulsvierscenen, adskillige idrætsarrangementer, dansestævner, ugentlige bankospil m.m.
+url: "http://kulsviergaarden.dk" # the base hostname & protocol for your site - used for feed.xml
+twitter_username: kulsviergaarden
+github_username:  interactify
 
 # Build settings
 markdown: kramdown
+
+
+collections:
+    faciliteter:
+        output: true
+        permalink: /faciliteter/:path/
+    arrangementer:
+        output: true
+        permalink: /arrangementer/:path/
+    om-os:
+        output: true
+        permalink: /om-os/:path/
