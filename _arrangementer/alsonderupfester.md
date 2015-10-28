@@ -1,25 +1,17 @@
 ---
-layout: default
-title:  "Alsonderup fester"
-permalink: /arrangementer/alsonderup-fester/
-orderby: 3
+title: Alsonderup fester
+cmsUserSlug: alsonderup-fester
+date: 2015-10-28 12:00:00
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hvert år på Kristi Himmelfarts dag afholdes der Nordsjællands største loppemarked og byfest på og omkring Kulsviergården.
 
-Jekyll also offers powerful support for code snippets:
+Alsønderup Fester Loppemarked
+Loppemarkedet der afholdes på Kulsviergården og i den nyopførte koldhal lige udenfor, er nordjællands største loppemarked. Der samles via frivillige ind hele året og der kan købes alt store møbler til antikke bøger. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Der er derudover masser af boder, mad- og øltelte, tombolaer samt masser af aktiviteter for børn. Følg gerne vores aktiviteter på hjemmesiden alsonderupfester.dk
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Alsønderup Fester Bankospil
+Der afholdes bankospil mandagen før og efter loppemarkedet. Der er dog lagt større flotte præmier i puljen, som kommer fra vores sponsorer.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Alt overskuddet fra begge arrangementer går via Støtteforeningen til ligelig fordeling mellem Alsønderup Idrætsforening og den selvejende institution Kulsviergården til gavn for aktiviteterne for lokalegnens børn, unge og voksne.
