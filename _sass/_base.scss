@@ -202,3 +202,31 @@ pre {
         }
     }
 }
+
+a {
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.banner {
+    background: url(../images/banner1.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+div.cms-content {
+    .container {
+        margin-top: -50px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        padding: 80px;
+    }
+
+}
+
+h1.post-title {
+    max-width: 200px;
+}

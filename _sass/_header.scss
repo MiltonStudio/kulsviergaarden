@@ -1,4 +1,5 @@
 #header {
+    color: $menu-font-color;
     #logo {
         font-size: 24pt;
         font-family: 'Ubuntu';
@@ -7,4 +8,43 @@
     .logo {
         text-align: center;
     }
+
+    a {
+        color: $menu-link-font-color;
+    }
+
+    div.link {
+        a {
+            font-size: 12px;
+            text-decoration: none;
+        }
+    }
+
+
+    .menu-container {
+        position: absolute;
+        width: 100%;
+        background-color: #ffffff;
+        overflow: hidden;
+        max-height: 0px;
+        transition: max-height .5s ease-in-out;
+    }
+
+    .menu-container.active {
+        max-height: 250px;
+    }
+
+    #menu {
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+
+    a.page-link {
+        text-transform: uppercase;
+    }
+
+    .menu-btn-container {
+        padding-top: 10px;
+    }
+
 }

@@ -2,23 +2,33 @@
 layout: default
 title:  "Lokaler & priser"
 permalink: /lokaler-og-priser/
+orderby: 1
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Teatersalen inkl. scene.
+Salen er et stort lyst lokale på ca. 250 m2 med plads til ca. 250 personer.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Salens størrelse gør den særlig velegnet til selskaber over 100 personer, således at der er plads til dansegulv, samt opdækning både til bespisning og kaffebord. Der er ydermere en stor scene i salen. 
 
-Jekyll also offers powerful support for code snippets:
+DKK 8.486,00
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Depositum: DKK 3.000,00 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Kulsviersalen.
+Salen er 175 m2 med plads til 145 personer.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Salen kan med fordel benyttes til selskaber mellem 30-70 personer, således at der er plads til et dansegulv.
+
+DKK 5.110,00
+
+Ved mindre selskabsarrangementer (max 40 personer) er prisen for Kulsviersalen dog alene kr. 3.000,00.
+
+Depositum: DKK 3.000,00
+
+Malermester Jensens stue.
+Den hyggelige ny-renoverede stue er 30 m2 og har plads til op til 24 personer.
+
+DKK 1.744,00
+
+Prisen inkluderer brug af borde, stole og service. 
+
+Har I specieller ønsker, så ring eller skriv gerne for et uforpligtende tilbud.

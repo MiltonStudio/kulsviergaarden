@@ -21,3 +21,6 @@ collections:
     om-os:
         output: true
         permalink: /om-os/:path/
+    forside:
+        output: true
+        permalink: /:path/
