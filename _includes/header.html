@@ -20,8 +20,24 @@
                 {% endif %}
             {% endfor %}
         </div>
-        <div class="col-md-4">ARRANGEMENTER</div>
-        <div class="col-md-4">NYHEDER</div>
+        <div class="col-md-4">
+            <span class="headline">ARRANGEMENTER</span>
+            {% for my_page in site.arrangementer %}
+                {% if my_page.title %}
+                    <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">{{ my_page.title }}</a></div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="col-md-4">
+            <span class="headline">NYHEDER</span>
+            <span class="headline">KONTAKT</span>
+            <span class="headline">OM OS</span>
+            {% for my_page in site.om-os %}
+                {% if my_page.title %}
+                    <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">{{ my_page.title }}</a></div>
+                {% endif %}
+            {% endfor %}
+        </div>
     </div>
 
 
