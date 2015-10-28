@@ -1,25 +1,22 @@
 ---
-layout: default
-title:  "Banko"
-permalink: /arrangementer/banko/
-orderby: 1
+title: Banko
+cmsUserSlug: banko
+date: 2015-10-28 12:00:00
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Der spilles nu banko både mandage og fredage her på 
+Kulsviergården.
+ 
+Mandagsbanko afvikles af støtteforeningen for ASGI og Kulsviergården og drives udelukkende af frivillige hjælpere.
 
-Jekyll also offers powerful support for code snippets:
+Hver mandag hele året rundt kl. 19.00 afholder vi stort bankospil med en samlet gevinst-sum på over kr. 40.000,00 pr. gang.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Dørene åbnes klokken 17.00. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Fredagsbanko afvikles af bankoforeningen Trekløveren, som også udelukkende drives af frivillige hjælpere.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
+
+Nærmere information omkring medlemskort eller lign. kan skaffes via Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
+
+Det er ikke tilladt at medbringe egne mad og drikkevarer.
