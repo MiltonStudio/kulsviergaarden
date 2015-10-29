@@ -19,7 +19,7 @@
                 <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">FACILITETER</a></div>
                 {% assign sorted_pages = (site.faciliteter | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
-                    {% if my_page.title %}
+                    {% if my_page.menu-name %}
                         <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.title }}</a></div>
                     {% endif %}
                 {% endfor %}
@@ -28,7 +28,7 @@
                 <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">ARRANGEMENTER</a></div>
                 {% assign sorted_pages = (site.arrangementer | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
-                    {% if my_page.title %}
+                    {% if my_page.menu-name %}
                         <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.title }}</a></div>
                     {% endif %}
                 {% endfor %}
@@ -36,17 +36,17 @@
             <div class="col-md-4">
                 {% assign sorted_pages = (site.forside | sort: 'orderby') %}
                 {% for page in sorted_pages %}
-                    {% if page.title %}
-                        {% if page.show_in_menu %}
+                    {% if page.menu-name %}
+
                         <div class="headline"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></div>
-                        {% endif %}
+
                     {% endif %}
                 {% endfor %}
                 <br>
                 <div class="headline">OM OS</div>
                 {% assign sorted_pages = (site.om-os | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
-                    {% if my_page.title %}
+                    {% if my_page.menu-name %}
                         <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.title }}</a></div>
                     {% endif %}
                 {% endfor %}
