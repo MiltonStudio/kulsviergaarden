@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
+title: Nyheder
 categories: Nyheder
-cmsUserSlug: welcome-to-jekyll
+cmsUserSlug: nyheder
 date: 2015-08-26T19:55:04.000Z
 ---
 
-Banko nu både mandag og fredag
+**Banko nu både mandag og fredag**  
 Det er med stor glæde, at vi kan meddele, at der nu er bankospil 2 gange om ugen på Kulsviergården, nemlig både mandage og fredage.  
- 
+
 Vores støtteforeningen for Alsønderup Idrætsforeningen og Kulsviergården stiller hver uge med et hold loyale flittige frivillige hjælpere, som sørger for, at bankospillet bliver afviklet til glæde for de mange gæster, som hver uge kommer og spiller banko.  
 Nærmere omkring medlemskab og info i øvrigt kontakt Birgit Petersen på tlf. 48 28 62 32.  
 Herudover har bankoforeningen Trekløveren startet bankospil op hver fredag. Bankoforeningen Trekløveren er støtteforening til Muskelsvindfonden og IBBH. Trekløveren drives også alene af et hold flittige frivillige hjælpere.  
