@@ -4,10 +4,14 @@ title: Kontakt
 permalink: /Kontakt/
 orderby: 2
 show_in_menu: true
+content-image:
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Adresse
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Kulsviergården
+Pibe Møllevej 7
+Alsønderup
+3400 Hillerød
+Tlf.: 48 28 65 40
+E-mail: kulsviergaarden@kulsviergaarden.dk

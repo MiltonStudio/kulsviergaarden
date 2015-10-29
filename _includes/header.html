@@ -16,7 +16,7 @@
     <div class="menu-container">
         <div class="container" id="menu">
             <div class="col-md-4">
-                <div class="headline">FACILITETER</div>
+                <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">FACILITETER</a></div>
                 {% assign sorted_pages = (site.faciliteter | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
                     {% if my_page.title %}
@@ -25,7 +25,7 @@
                 {% endfor %}
             </div>
             <div class="col-md-4">
-                <div class="headline">ARRANGEMENTER</div>
+                <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">ARRANGEMENTER</a></div>
                 {% assign sorted_pages = (site.arrangementer | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
                     {% if my_page.title %}
