@@ -1,13 +1,14 @@
 ---
-layout: page
 title: Kontakt
+content-image: /images/uploads/kort.jpg
+cmsUserSlug: kontakt
+date: 2015-10-29 
 permalink: /Kontakt/
-orderby: 2
+layout: page
 show_in_menu: true
-content-image:
 ---
 
-Adresse
+**Adresse**
 
 Kulsviergården
 Pibe Møllevej 7
