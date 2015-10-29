@@ -230,3 +230,46 @@ div.cms-content {
 h1.post-title {
     max-width: 200px;
 }
+
+.align-right {
+    text-align: right;
+}
+
+.site-footer {
+    background-color: $footer-background;
+    color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 45px;
+
+    .footer-logo {
+        font-size: 34px;
+    }
+    .footer-text {
+        text-align: center;
+        padding-top: 120px;
+        font-family: 'Ubuntu';
+        font-size: 10px;
+    }
+    .social {
+        color: #ffffff;
+        font-size: 38px;
+        padding: 0px 10px 0px 10px;
+    }
+    .rotate {
+        -webkit-transition-duration: 0.4s;
+        -moz-transition-duration: 0.4s;
+        -o-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        -webkit-transition-property: -webkit-transform;
+        -moz-transition-property: -moz-transform;
+        -o-transition-property: -o-transform;
+        transition-property: transform;
+        overflow: hidden;
+    }
+    .rotate:hover
+    {
+        -webkit-transform:rotate(360deg);
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+    }
+}

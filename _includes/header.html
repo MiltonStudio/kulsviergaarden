@@ -16,7 +16,7 @@
     <div class="menu-container">
         <div class="container" id="menu">
             <div class="col-md-4">
-                <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">FACILITETER</a></div>
+                <div class="headline"><a href="{{ '/facilliteter' | prepend: site.baseurl }}">FACILITETER</a></div>
                 {% assign sorted_pages = (site.faciliteter | sort: 'orderby') %}
                 {% for my_page in sorted_pages %}
                     {% if my_page.menu-name %}
@@ -34,7 +34,7 @@
                 {% endfor %}
             </div>
             <div class="col-md-4">
-                <div class="headline"><a href="{{ '/nyheder' | prepend: site.baseurl }}">NYHEDER</a></div><br><br>
+                <div class="headline"><a href="{{ '/nyheder' | prepend: site.baseurl }}">NYHEDER</a></div><br>
                 {% assign sorted_pages = (site.forside | sort: 'orderby') %}
                 {% for page in sorted_pages %}
                     {% if page.menu-name %}
