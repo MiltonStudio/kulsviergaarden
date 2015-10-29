@@ -5,7 +5,7 @@ cmsUserSlug: kontakt
 date: 2015-10-29T00:00:00.000Z
 permalink: /Kontakt/
 layout: default
-menu-name:
+menu-name: Kontakt
 ---
 
 **Adresse**
