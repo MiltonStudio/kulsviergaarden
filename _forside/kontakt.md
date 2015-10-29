@@ -4,7 +4,7 @@ content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt
 date: 2015-10-29T00:00:00.000Z
 permalink: /Kontakt/
-layout: page
+layout: default
 show_in_menu: true
 ---
 
