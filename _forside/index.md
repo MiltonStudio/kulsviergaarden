@@ -1,7 +1,8 @@
 ---
 title: En perle i nordsjælland
 cmsUserSlug: en-perle-i-nordsjlland
-date: 2015-10-29 12:00:00
+date: 2015-10-29T12:00:00.000Z
+permalink: ""
 show_in_menu: false
 ---
 
