@@ -1,26 +1,19 @@
 ---
 title: "Welcome to Jekyll!"
-categories: jekyll update
+categories: Nyheder
 cmsUserSlug: welcome-to-jekyll
 date: 2015-08-26T19:55:04.000Z
 ---
 
-test You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Banko nu både mandag og fredag
+Det er med stor glæde, at vi kan meddele, at der nu er bankospil 2 gange om ugen på Kulsviergården, nemlig både mandage og fredage.  
+ 
+Vores støtteforeningen for Alsønderup Idrætsforeningen og Kulsviergården stiller hver uge med et hold loyale flittige frivillige hjælpere, som sørger for, at bankospillet bliver afviklet til glæde for de mange gæster, som hver uge kommer og spiller banko.  
+Nærmere omkring medlemskab og info i øvrigt kontakt Birgit Petersen på tlf. 48 28 62 32.  
+Herudover har bankoforeningen Trekløveren startet bankospil op hver fredag. Bankoforeningen Trekløveren er støtteforening til Muskelsvindfonden og IBBH. Trekløveren drives også alene af et hold flittige frivillige hjælpere.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Nærmere omkring medlemskab og info så kontakt Ulla Hautop på 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Tlf. 20 46 11 59  
+Mail: hautopulla@gmail.com.
