@@ -3,7 +3,7 @@ title: Alsonderup fester
 content-image: /images/uploads/alsonderup_banner.jpg
 cmsUserSlug: alsonderup-fester
 date: 2015-10-28T12:00:00.000Z
-permalink: /arrangementer/alsonderup-fester
+permalink: arrangementer/alsonderup-fester
 layout: default
 show_in_menu: true
 ---
