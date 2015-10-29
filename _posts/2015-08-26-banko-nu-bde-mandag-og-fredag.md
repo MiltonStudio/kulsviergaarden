@@ -3,6 +3,7 @@ title: Nyheder
 categories: Nyheder
 cmsUserSlug: nyheder
 date: 2015-08-26T19:55:04.000Z
+layout: default
 ---
 
 **Banko nu både mandag og fredag**  
