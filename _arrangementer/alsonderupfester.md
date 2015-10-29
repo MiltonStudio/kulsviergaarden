@@ -5,7 +5,7 @@ cmsUserSlug: alsonderup-fester
 date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/alsonderup-fester
 layout: default
-show_in_menu: null
+show_in_menu: true
 ---
 
 Hvert år på Kristi Himmelfarts dag afholdes der Nordsjællands største loppemarked og byfest på og omkring Kulsviergården.
