@@ -3,6 +3,7 @@ layout: default
 title:  "Erhvervsarrangementer"
 permalink: /erhvervsarrangementer/
 orderby: 3
+menu-name: "Erhvervsarrangementer"
 ---
 Erhvervsarrangementer
 På Kulsviergården findes rigtig gode konference-faciliteter til afholdelse af kursus og virksomhedsarrangementer.

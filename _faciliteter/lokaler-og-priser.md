@@ -1,8 +1,9 @@
 ---
 layout: default
-title:  "Lokaler & priser"
+title:  "Lokaler og priser"
 permalink: /lokaler-og-priser/
 orderby: 1
+menu-name: "Lokaler & priser"
 ---
 Teatersalen inkl. scene.
 Salen er et stort lyst lokale på ca. 250 m2 med plads til ca. 250 personer.

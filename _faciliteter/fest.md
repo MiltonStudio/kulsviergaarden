@@ -3,6 +3,7 @@ layout: default
 title:  "Fest på Kulsviergården"
 permalink: /fest/
 orderby: 2
+menu-name: "Fest på Kulsviergården"
 ---
 Vælger du at holde din næste store fest på Kulsviergården, vil vi gøre alt for, at rammerne er i orden.
 

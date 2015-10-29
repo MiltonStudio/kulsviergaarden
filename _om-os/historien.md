@@ -4,8 +4,8 @@ cmsUserSlug: historie-og-sjl--i-nordsjlland
 date: 2015-10-29T12:00:00.000Z
 permalink: "/om-os/historien"
 layout: default
-show_in_menu: false
 content-image:
+menu-name: Historien
 ---
 
 Arrangementer fra 20-500 pers.
