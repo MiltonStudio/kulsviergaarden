@@ -15,6 +15,13 @@
                 {{ content }}
             </div>
         </div>
+        {% if page.content-image %}
+        <div class="container">
+            <div class="col-md-12">
+                <img src="{{ page.content-image | prepend: site.baseurl }}" alt="{{ page.title }}">
+            </div>
+        </div>
+        {% endif %}
     </div>
 
 
