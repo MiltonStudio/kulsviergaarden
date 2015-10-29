@@ -5,6 +5,7 @@ date: 2015-10-29T12:00:00.000Z
 permalink: "/arrangementer/"
 layout: default
 show_in_menu: false
+content-image:
 ---
 
 Test landsbyen Alsønderup tæt på skov, gadekær og kirke, finder du Kulsviergården, som er et naturligt samlingspunkt for de omkringliggende byer.
