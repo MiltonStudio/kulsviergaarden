@@ -8,7 +8,7 @@ layout: default
 menu-name: null
 ---
 
-Test landsbyen Alsønderup tæt på skov, gadekær og kirke, finder du Kulsviergården, som er et naturligt samlingspunkt for de omkringliggende byer.
+landsbyen Alsønderup tæt på skov, gadekær og kirke, finder du Kulsviergården, som er et naturligt samlingspunkt for de omkringliggende byer.
 
 Kulsviergården danner hvert år ramme omkring Nordsjællands største loppemarked, Alsønderup Fester, 1-2 årlige teaterforestillinger, som er arrangeret af vores lokale teaterforening, Kulsvierscenen, adskillige idrætsarrangementer, dansestævner, ugentlige bankospil m.m.
 Kulsviergården er særdeles velegnet til afholdelse af barnedåb, bryllup, sølvbryllup, fødselsdag, julefrokost, fest, kursus, bestyrelsesmøde, konference, reception, workshop, messer og lignende. 
