@@ -2,7 +2,7 @@
 title: Test nyhed
 categories: test kategori
 cmsUserSlug: ""
-date: 2015-10-30T12:00:00.000Z
+date: 2015-10-29 
 layout: default
 ---
 
