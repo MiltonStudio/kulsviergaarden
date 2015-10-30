@@ -6,7 +6,7 @@ development:
 production:
   backend:
     name: interactify
-    repo: kulsviergaarden # Path to your Github repository
+    repo: interactify/kulsviergaarden # Path to your Github repository
     branch: master # Branch to update (master by default)
 
 media_folder: "images/uploads" # Folder where user uploaded files should go
