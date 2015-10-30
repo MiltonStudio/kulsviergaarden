@@ -4,10 +4,10 @@ title: Nyheder
 permalink: /nyheder/
 orderby: 1
 ---
-
+<!--
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Her har vi listet vores seneste nyheder</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -21,6 +21,20 @@ orderby: 1
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+-->
+
+{% for post in site.posts %}
+<div class="post">
+
+  <article class="post-content">
+    <b>{{ post.title }}</b>
+    {{ post.content }}
+  </article>
+
+</div>
+<hr>
+{% endfor %}
+
+
