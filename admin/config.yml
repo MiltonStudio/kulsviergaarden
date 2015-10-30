@@ -5,7 +5,7 @@ development:
 
 production:
   backend:
-    name: interactify
+    name: github-api
     repo: interactify/kulsviergaarden # Path to your Github repository
     branch: master # Branch to update (master by default)
 
