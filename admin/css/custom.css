@@ -23,3 +23,17 @@ body.ember-application .cms-entry-editor {
 input[type="checkbox"] {
     height: 14px !important;
 }
+
+.cms-logo svg {
+    display: none;
+}
+
+.cms-logo a:after {
+    content: "KULSVIERGÅRDEN";
+    font-size: 20px;
+    color: #e0e6e7;
+}
+
+body.ember-application .cms-logo {
+    width: 200px;
+}
