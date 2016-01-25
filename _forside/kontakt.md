@@ -14,5 +14,5 @@ Kulsviergården
 Pibe Møllevej 7  
 Alsønderup  
 3400 Hillerød  
-Tlf.: 48 28 65 40 1 
+Tlf.: 48 28 65 40
 E-mail: kulsviergaarden@kulsviergaarden.dk
